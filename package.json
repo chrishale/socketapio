@@ -1,0 +1,16 @@
+{
+  "name": "socketapio",
+  "version": "0.0.1",
+  "repository": "https://github.com/chrishale/socketapio",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hale <chris@strobedigital.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.4.6"
+  }
+}

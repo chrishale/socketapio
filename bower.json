@@ -1,0 +1,21 @@
+{
+  "name": "socketapio",
+  "version": "0.0.1",
+  "authors": [
+    "Chris Hale <chris@strobedigital.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flight": "~1.1.1",
+    "requirejs": "~2.1.5",
+    "socket.io-client": "~0.9.16",
+    "underscore": "~1.5.2"
+  }
+}
