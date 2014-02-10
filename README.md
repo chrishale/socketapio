@@ -1,6 +1,6 @@
 # An Event Driven API
 
-This is super simple experiment, full article available soon.
+This is super simple experiment, full article available here: http://teamstrobe.com/2014/02/10/sync-data-with-socketio-and-flight.html
 
 ## Requirements
 
